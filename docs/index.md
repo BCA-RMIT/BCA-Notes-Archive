@@ -61,7 +61,7 @@ This section has all notes of the **C-Language** subject.
 - Full theory note: Will add soon
 <br/>
 <br/>
-- Observation note: Will add soon
+- Observation note: [Click here](https://drive.google.com/file/d/1-_-PzFkOpMpxzwCsIW01xDP6HL3pyKLm/view?usp=drivesdk)
 <br/>
 <br/>
 - Report note: Will add soon
