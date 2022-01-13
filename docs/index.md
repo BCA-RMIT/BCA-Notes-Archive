@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My website
 
-You can use the [editor on GitHub](https://github.com/BCA-RMIT/BCA-Notes-Archive/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This website is created for BCA students of RMIT college. In this site you can get every notes of all subjects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Subjects
+1. Data Structure
+2. Operating System
+3. Computer Fundamentals
+4. C-Lanuage
+5. Discrete Mathematics
+6. English
+<br/>
+<br/>
 
-### Markdown
+## Data Structure Notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BCA-RMIT/BCA-Notes-Archive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This section has all notes of the **Data Structure** subject.
+<br/>
+Note: [Click here to see](https://github.com/Subhendu-droid/BCA-Notes/blob/main/docs/CamScanner%2001-12-2022%2014.34.43.pdf)
