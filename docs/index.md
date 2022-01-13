@@ -1,8 +1,8 @@
-## Welcome to My website
+### Welcome to My website
 
 This website is created for BCA students of RMIT college. In this site you can get every notes of all subjects.
 
-## Subjects
+### Subjects
 1. Data Structure
 2. Operating System
 3. Computer Fundamentals
@@ -24,6 +24,7 @@ This section has all notes of the **Data Structure** subject.
 <br/>
 <br/>
 <br/>
+
 ## Operating System
 
 This section has all notes of the **Operating System** subject.
@@ -38,6 +39,7 @@ This section has all notes of the **Operating System** subject.
 <br/>
 <br/>
 <br/>
+
 ## Computer Fundamentals
 
 This section has all notes of the **Computer Fundamentals** subject.
@@ -50,6 +52,7 @@ This section has all notes of the **Computer Fundamentals** subject.
 <br/>
 <br/>
 <br/>
+
 ## C-Language
 
 This section has all notes of the **C-Language** subject.
@@ -68,6 +71,7 @@ This section has all notes of the **C-Language** subject.
 <br/>
 <br/>
 <br/>
+
 ## Discrete Mathematics
 
 This section has all notes of the **Discrete Mathematics** subject.
@@ -80,6 +84,7 @@ This section has all notes of the **Discrete Mathematics** subject.
 <br/>
 <br/>
 <br/>
+
 ## English
 
 This section has all notes of the **English** subject.
