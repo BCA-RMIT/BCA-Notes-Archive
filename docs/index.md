@@ -88,7 +88,7 @@ This section has all notes of the **Discrete Mathematics** subject.
 This section has all notes of the **English** subject.
 <br/>
 <br/>
-- Full theory note: Will add soon
+- Poetry Q&A note: [Click here](https://drive.google.com/file/d/10Ak8GrsrJeSX0WCLx65WunTn5FSTSznP/view?usp=drivesdk)
 <br/>
 <br/>
 
