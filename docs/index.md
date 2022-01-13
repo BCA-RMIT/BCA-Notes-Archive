@@ -16,4 +16,9 @@ This website is created for BCA students of RMIT college. In this site you can g
 
 This section has all notes of the **Data Structure** subject.
 <br/>
+<br/>
+<details><summary>Click here to see</summary>
+<p>
 Note: [Click here to see](https://github.com/Subhendu-droid/BCA-Notes/blob/main/docs/CamScanner%2001-12-2022%2014.34.43.pdf)
+</p>
+</details>
