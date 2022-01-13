@@ -17,7 +17,8 @@ This website is created for BCA students of RMIT college. In this site you can g
 This section has all notes of the **Data Structure** subject.
 <br/>
 <br/>
-Full Note: [Click here to see](https://drive.google.com/file/d/1-2KUctyQ9UbBW1YwH3dpO1aIxqu6FTEK/view?usp=drivesdk)
+- Full theory note: [Click here to see](https://drive.google.com/file/d/1-2KUctyQ9UbBW1YwH3dpO1aIxqu6FTEK/view?usp=drivesdk)
+<br/>
 <br/>
 <br/>
 <br/>
@@ -28,9 +29,10 @@ Full Note: [Click here to see](https://drive.google.com/file/d/1-2KUctyQ9UbBW1Yw
 This section has all notes of the **Operating System** subject.
 <br/>
 <br/>
-Full theory note: Will add soon
+- Full theory note: Will add soon
 <br/>
-Assignment note: Will add soon
+- Assignment note: Will add soon
+<br/>
 <br/>
 <br/>
 <br/>
@@ -41,7 +43,8 @@ Assignment note: Will add soon
 This section has all notes of the **Computer Fundamentals** subject.
 <br/>
 <br/>
-Full theory note: Will add soon
+- Full theory note: Will add soon
+<br/>
 <br/>
 <br/>
 <br/>
@@ -52,11 +55,14 @@ Full theory note: Will add soon
 This section has all notes of the **C-Language** subject.
 <br/>
 <br/>
-Full theory note: Will add soon
+- Full theory note: Will add soon
 <br/>
-Observation note: Will add soon
 <br/>
-Report note: Will add soon
+- Observation note: Will add soon
+<br/>
+<br/>
+- Report note: Will add soon
+<br/>
 <br/>
 <br/>
 <br/>
@@ -67,7 +73,8 @@ Report note: Will add soon
 This section has all notes of the **Discrete Mathematics** subject.
 <br/>
 <br/>
-Full theory note: Will add soon
+- Full theory note: Will add soon
+<br/>
 <br/>
 <br/>
 <br/>
@@ -78,4 +85,4 @@ Full theory note: Will add soon
 This section has all notes of the **English** subject.
 <br/>
 <br/>
-Full theory note: Will add soon
+- Full theory note: Will add soon
