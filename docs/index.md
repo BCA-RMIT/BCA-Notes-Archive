@@ -17,7 +17,7 @@ This website is created for BCA students of RMIT college. In this site you can g
 This section has all notes of the **Data Structure** subject.
 <br/>
 <br/>
-- Full theory note: [Click here to see](https://drive.google.com/file/d/1-2KUctyQ9UbBW1YwH3dpO1aIxqu6FTEK/view?usp=drivesdk)
+- Full theory note: [Click here](https://drive.google.com/file/d/1-2KUctyQ9UbBW1YwH3dpO1aIxqu6FTEK/view?usp=drivesdk)
 <br/>
 <br/>
 <br/>
@@ -30,7 +30,7 @@ This section has all notes of the **Data Structure** subject.
 This section has all notes of the **Operating System** subject.
 <br/>
 <br/>
-- Full theory note: Will add soon
+- Full theory note: [Click here](https://drive.google.com/file/d/10joePUDzDVyrlbAVk2r0JmgzN3AkmHqC/view?usp=drivesdk)
 <br/>
 - Assignment note: Will add soon
 <br/>
@@ -45,7 +45,7 @@ This section has all notes of the **Operating System** subject.
 This section has all notes of the **Computer Fundamentals** subject.
 <br/>
 <br/>
-- Full theory note: [Click here](https://drive.google.com/file/d/1-iZ-3Gf4Bs1pfPFRGRPfgr4YVGg3vb0i/view?usp=drivesdk)
+- Full theory note: [Click here](https://drive.google.com/file/d/10jDnFpiakNhTeBw-N9vloQeavn9zoXWm/view?usp=drivesdk)
 <br/>
 <br/>
 <br/>
