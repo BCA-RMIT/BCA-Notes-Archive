@@ -60,7 +60,7 @@ This section has all notes of the **Computer Fundamentals** subject.
 This section has all notes of the **C-Language** subject.
 <br/>
 <br/>
-- Full theory note: Will add soon
+- Full theory note: [Click here](https://drive.google.com/file/d/1-Ai7n3HSqk2X1mxgryv4_TRtAqTI8z4p/view?usp=drivesdk)
 <br/>
 - Observation note: [Click here](https://drive.google.com/file/d/1-devUvYPbGQWcGQqLEpSBqcAIXiJdZLN/view?usp=drivesdk)
 <br/>
