@@ -45,7 +45,9 @@ This section has all notes of the **Operating System** subject.
 This section has all notes of the **Computer Fundamentals** subject.
 <br/>
 <br/>
-- Full theory note: [Click here](https://drive.google.com/file/d/10jDnFpiakNhTeBw-N9vloQeavn9zoXWm/view?usp=drivesdk)
+- Full theory note: [Click here](https://drive.google.com/file/d/1--5lk0jgYQkSod_avHZdWIhNWC201g1-/view?usp=drivesdk)
+
+- 15-Jan-22 Notr: [Click here](https://drive.google.com/file/d/1-6s3Wt5dkda85wdTDuj-MAMMCCYS_aRm/view?usp=drivesdk)
 <br/>
 <br/>
 <br/>
